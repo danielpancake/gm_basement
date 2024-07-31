@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Structs","folderPath":"folders/Structs.yy","name":"Structs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
@@ -23,6 +24,8 @@
     {"id":{"name":"func_bbox","path":"scripts/func_bbox/func_bbox.yy",},},
     {"id":{"name":"func_delta","path":"scripts/func_delta/func_delta.yy",},},
     {"id":{"name":"func_math_basic","path":"scripts/func_math_basic/func_math_basic.yy",},},
+    {"id":{"name":"Point2D","path":"scripts/Point2D/Point2D.yy",},},
+    {"id":{"name":"Vector2D","path":"scripts/Vector2D/Vector2D.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
