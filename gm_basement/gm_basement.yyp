@@ -19,7 +19,11 @@
     "IDEVersion":"2024.6.2.162",
   },
   "name":"gm_basement",
-  "resources":[],
+  "resources":[
+    {"id":{"name":"func_bbox","path":"scripts/func_bbox/func_bbox.yy",},},
+    {"id":{"name":"func_delta","path":"scripts/func_delta/func_delta.yy",},},
+    {"id":{"name":"func_math_basic","path":"scripts/func_math_basic/func_math_basic.yy",},},
+  ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[],

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"func_bbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"func_bbox",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
