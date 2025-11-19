@@ -27,6 +27,7 @@
     {"id":{"name":"func_delta","path":"scripts/func_delta/func_delta.yy",},},
     {"id":{"name":"func_functional","path":"scripts/func_functional/func_functional.yy",},},
     {"id":{"name":"func_math_basic","path":"scripts/func_math_basic/func_math_basic.yy",},},
+    {"id":{"name":"func_strings","path":"scripts/func_strings/func_strings.yy",},},
     {"id":{"name":"Point2D","path":"scripts/Point2D/Point2D.yy",},},
     {"id":{"name":"Vector2D","path":"scripts/Vector2D/Vector2D.yy",},},
   ],

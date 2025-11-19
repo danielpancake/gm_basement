@@ -1,4 +1,4 @@
-/// @func text_get_rect(_text, [_x], [_y], [_xscale], [_yscale], [_halign], [_valign], [_font])
+// @func text_get_rect(_text, [_x], [_y], [_xscale], [_yscale], [_halign], [_valign], [_font])
 /// TODO: add max_width check
 function text_get_rect(_text, _x = 0, _y = 0, _xscale=1, _yscale=1, _halign=draw_get_halign(), _valign=draw_get_valign(), _font=draw_get_font()) {
     gpu_push_state();
