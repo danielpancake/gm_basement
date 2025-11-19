@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"gm_basement",
+  "%Name":"gm-basement",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -20,7 +20,7 @@
   "MetaData":{
     "IDEVersion":"2024.14.0.207",
   },
-  "name":"gm_basement",
+  "name":"gm-basement",
   "resources":[
     {"id":{"name":"func_arrays","path":"scripts/func_arrays/func_arrays.yy",},},
     {"id":{"name":"func_bbox","path":"scripts/func_bbox/func_bbox.yy",},},
