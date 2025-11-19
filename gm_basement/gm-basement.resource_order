@@ -1,0 +1,6 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"func_strings","order":1,"path":"scripts/func_strings/func_strings.yy",},
+  ],
+}
